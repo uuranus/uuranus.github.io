@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS
+title: UUNIVERSE
+description: Android Developer
 
-url: https://long-haul.netlify.app
+url: https://uuranus.github.io
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -19,19 +19,16 @@ paginate: 5
 navigation:
     - title: Home
       url: /index.html
-    - title: About
-      url: /about
+    - title: Blog
+      url: /blog
     - title: Contact
       url: /contact
 
 social:
-    github: brianmaierjr
-    twitter: brianmaierjr
-    facebook: brianmaierjr
-    email: brimaidesigns@gmail.com
-    linkedin: brianmaierjr
+    github: uuranus
+    email: uuranus.dev@gmail.com
 
 google_analytics: "UA-58263416-1"
 
 disqus:
-    shortname: brianmaierjr
+    shortname: uuranus
